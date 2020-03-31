@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/learnforliteracy/public_html/
+    - export DEPLOYPATH=/home/learnforliteracy/public_html/DadJokes/
     - /bin/cp -R * $DEPLOYPATH
     
