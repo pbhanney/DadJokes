@@ -2,7 +2,7 @@
   "name": "dadjokes",
   "version": "1.0.0",
   "description": "",
-  "keywords": [],
+  "keywords": ["dad", "jokes"],
   "homepage": "https://learnforliteracy.com/DadJokes/",
   "main": "src/index.js",
   "dependencies": {
