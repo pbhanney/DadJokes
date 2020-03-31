@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
+  "homepage": "http://learnforliteracy.com/DadJokes/",
   "main": "src/index.js",
   "dependencies": {
     "react": "16.8.0",
